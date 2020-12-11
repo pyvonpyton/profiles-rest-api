@@ -1,0 +1,12 @@
+vagrant up
+
+vagrant ssh
+cd /vagrant
+
+python -m venv ~/env
+vagrant@ubuntu-bionic:~$ source ~/env/bin/activate
+
+vagrant@ubuntu-bionic:~$ source ~/env/bin/activate
+(env) vagrant@ubuntu-bionic:~$
+
+--deeactivate
