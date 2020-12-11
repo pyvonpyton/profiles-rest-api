@@ -10,3 +10,10 @@ vagrant@ubuntu-bionic:~$ source ~/env/bin/activate
 (env) vagrant@ubuntu-bionic:~$
 
 --deeactivate
+
+pip install -r requirements.txt
+
+C:\Users\vonte\Python_Scripts\PostgreSQL\profiles-rest-api\requirements.txt
+
+git add .
+git commit -am "comments"
